@@ -1,0 +1,3 @@
+## IPFS
+### internetแบบ decentralized มีข้อเสียที่หากserverล่ม จะไม่สามารถเข้าถึงหน้าwebsiteได้ รวมถึงรัฐบาลสามารถเข้ามาแทรกแซงได้
+### แต่การใช้ IFPS จะเป็นการใช้ค่า hash ของ content แทนip address มันจะหาไฟล์ที่มี hash ตรงกับที่ request เป็นแบบ distubuted ทำให้ต่างจากการมีศูนย์กลาง 
