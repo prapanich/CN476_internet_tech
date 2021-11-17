@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=6uHQesUsBHg
 #### เพื่อให้ผู้ที่จ่ายเงินเพราะต้องการเก็บไฟล์สามารถเข้าถึงข้อมูลได้แบบ distributed
 
 ### video clip IPFS
-https://www.canva.com/design/DAEvSlHUo7M/mYAiEJCKVz9HcDPBpb-bDQ/view?utm_content=DAEvSlHUo7M&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+https://youtu.be/NbTo5QCfxno
