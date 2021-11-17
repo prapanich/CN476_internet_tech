@@ -9,5 +9,5 @@ https://www.youtube.com/watch?v=6uHQesUsBHg
 #### และเพื่อจูงใจให้คนเข้ามาร่วมจัดเก็บไฟล์และเปิดinternetไว้ จึงมี file coin ที่ให้ coin กับคนที่เป็นคนจัดเก็บไฟล์ 
 #### เพื่อให้ผู้ที่จ่ายเงินเพราะต้องการเก็บไฟล์สามารถเข้าถึงข้อมูลได้แบบ distributed
 
-### video clip IPFS
+### 3.video clip IPFS
 https://youtu.be/NbTo5QCfxno
